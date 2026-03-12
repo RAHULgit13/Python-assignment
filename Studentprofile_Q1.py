@@ -46,8 +46,8 @@ class College:
 # --- Execution ---
 # 1. Create three objects for Student class
 std1 = Student(50, "SUJITH", 90, 90, 90, 2006, 30000)
-std2 = Student(102, "Jashu", 60, 70, 70, 2006, 50000)
-std3 = Student(103, "Reshma", 80, 80, 80, 2006, 50000)
+std2 = Student(47, "MOHITH", 60, 70, 70, 2006, 50000)
+std3 = Student(17, "RAHUL", 80, 80, 80, 2006, 50000)
 # 2. Create one object for College class and pass the 3 students
 my_college = College("ANES001", "ANITS", "Visakhapatnam", std1, std2, std3)
 # 3. Display report
